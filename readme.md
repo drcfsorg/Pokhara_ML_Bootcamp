@@ -39,23 +39,34 @@ Linear Regression: This folder contains notebooks and additional resources for l
 
 Addl Resources: This subfolder contains additional resources for linear regression.
 linear regression on dummy dataset 1.py: Python script demonstrating linear regression on a dummy dataset.
+
 linear regression on dummy dataset 2.py: Python script demonstrating linear regression on another dummy dataset.
+
 linear regression on real dataset 1.py: Python script demonstrating linear regression on a real-world dataset.
+
 Linear_Regression_ML_day_1.ipynb: Jupyter Notebook covering linear regression concepts.
 Logistic Regression: This folder contains notebooks and additional resources for logistic regression.
 
 Addl Resources: This subfolder contains additional resources for logistic regression.
+
 Logistic Regression 1.py: Python script demonstrating logistic regression.
+
 Logistic Regression 2.py: Python script demonstrating logistic regression with different parameters.
+
 Logistic Regression 3.py: Python script demonstrating logistic regression on a different dataset.
+
 Logistic Regression 4.py: Python script demonstrating logistic regression with cross-validation.
+
 logistic_regression_day_2.ipynb: Jupyter Notebook covering logistic regression concepts.
 Machine Learning Bootcamp.pdf: PDF document containing the bootcamp material and syllabus.
 
 Model Validation: This folder contains a notebook related to model validation.
 
 model_validation.ipynb: Jupyter Notebook explaining model validation techniques.
+
+
 Neural Networks and CNN: This folder contains notebooks and a presentation on neural networks and convolutional neural networks (CNN).
 
 CNN_Architecture.ipynb: Jupyter Notebook explaining CNN architecture.
+
 Neural_Network,_CNN_and_comparision_with_Logistic_and_SVC_Classifiers.ipynb: Jupyter Notebook comparing neural networks, CNN, logistic regression
